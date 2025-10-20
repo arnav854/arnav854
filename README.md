@@ -6,7 +6,7 @@
 🚀 Stay connected to see **awesome upcoming projects** coming up and feel free to **collaborate with me**!  
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=arnav854&color=blue&style=flat-square)
+
 
 
 ---
