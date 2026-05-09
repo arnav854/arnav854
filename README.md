@@ -2,7 +2,7 @@
 **A passionate coder from India 🇮🇳**  
 
 💻 I love building **full-stack applications**, exploring new technologies , like to do research , solving challenging problems, and diving into **competitive programming**.  
-🌐 Currently focused on **Web Development**, **DSA**, **Cybersecurity**.  
+🌐 Currently focused on **Competitive Programming**.  
 🚀 Stay connected to see **awesome upcoming projects** coming up and feel free to **collaborate with me**!  
 
 
